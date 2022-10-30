@@ -5,4 +5,4 @@ const listaDeChamada = ['João','Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie']
 listaDeChamada.splice(3,0, 'Daisy')       
 console.log(`Lista de Chamada: ${listaDeChamada}`)
 
-//o aplice altera a array original, diferente de outros caso onde foi preciso criar variáreis para savar os resultados que queriamos.
+//o splice altera a array original, diferente de outros caso onde foi preciso criar variáreis para savar os resultados que queriamos.
